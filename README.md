@@ -1,3 +1,7 @@
+# Fork后做的工作：测试在本地的实际语音OCR准确率和速度
+
+配置相关conda环境等，在本机进行测试。
+
 # RealtimeSTT
 [![PyPI](https://img.shields.io/pypi/v/RealtimeSTT)](https://pypi.org/project/RealtimeSTT/)
 [![Downloads](https://static.pepy.tech/badge/RealtimeSTT)](https://www.pepy.tech/projects/realtimestt)
